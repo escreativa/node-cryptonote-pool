@@ -98,17 +98,17 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "daaggo"
     },
 
     "daemon": {
-        "host": "127.0.0.1",
-        "port": 18081
+        "host": "156.67.218.73",
+        "port": 17236
     },
 
     "wallet": {
-        "host": "127.0.0.1",
-        "port": 8082
+        "host": "156.67.218.73",
+        "port": 18236
     },
 
     "redis": {
