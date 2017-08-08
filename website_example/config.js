@@ -2,7 +2,7 @@ var api = "156.67.218.73:17236";
 
 var coinUnits = 1000000000000;
 
-var poolHost = "156.67.218.73";
+var poolHost = "pool.bytcoins.org";
 
 var irc = "irc.freenode.net/#bytcoins-pools";
 
