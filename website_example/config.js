@@ -1,17 +1,17 @@
-var api = "http://cryppit.com:8117";
+var api = "156.67.218.73:17236";
 
 var coinUnits = 1000000000000;
 
-var poolHost = "cryppit.com";
+var poolHost = "156.67.218.73";
 
-var irc = "irc.freenode.net/#monero-pools";
+var irc = "irc.freenode.net/#bytcoins-pools";
 
-var email = "support@cryppit.com";
+var email = "pool@bytcoins.org";
 
-var cryptonatorWidget = ["XMR-BTC", "XMR-USD", "XMR-EUR", "XMR-GBP"];
+var cryptonatorWidget = ["BYT-BTC", "BYT-ETH", "BYT-USD", "BYT-EUR", "BYT-GBP"];
 
-var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
+var easyminerDownload = "https://github.com/escreativa/cryptonote-easy-miner/releases";
 
-var blockchainExplorer = "http://chainradar.com/xmr/block/";
+var blockchainExplorer = "https://chainradar.com/byt/blocks/";
 
-var transactionExplorer = "http://chainradar.com/xmr/transaction/";
+var transactionExplorer = "http://chainradar.com/byt/transaction/";
